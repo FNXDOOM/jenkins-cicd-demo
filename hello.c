@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello from Jenkins CI/CD!\n");
-    printf("Program compiled successfully!\n");
-    return 0;
-}
